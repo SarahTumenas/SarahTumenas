@@ -24,8 +24,3 @@
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SarahTumenas&layout=compact&langs_count=7&theme=dark" />
 </div>
 </div>
-
-<br>
-
-
-! [Estatísticas do github de Sarah] (https://github-readme-stats.vercel.app/api?username=SarahTumenas&show_icons=true&theme=radical)
