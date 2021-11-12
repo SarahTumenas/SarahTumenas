@@ -1,20 +1,19 @@
-<h2> Olá, mundo! <img src = "https://giphy.com/gifs/starwars-movie-star-wars-3ornk57KwDXf81rjWM" width = "70"> </h2>
+ <h2> Olá, mundo! <img src = "https://media1.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif?cid=ecf05e47v4f43efaxsxxbql5od8e4e9ztfl6gp388rf21r8u&rid=giphy.gif&ct=g" width = "70"> </h2>
 
- <img width = "250" align = "right" src = "https://giphy.com/gifs/baby-yoda-Wn74RUT0vjnoU98Hnt">
+ <img width = "250" align = "right" src = "https://media4.giphy.com/media/Wn74RUT0vjnoU98Hnt/giphy.gif?cid=ecf05e47no7kwud2f488jb7g8h1vla164gb79od5ltf1n75f&rid=giphy.gif&ct=g">
 
-<h3 align = "left"> <img src = "https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width = "50"> Um pouco mais sobre mim ... </h3>
+<h3 align = "left"> <img src = "https://media4.giphy.com/media/arm7b1hJrw1BS/giphy.gif?cid=ecf05e4766m76if831jl77h3xycidoeduhne8gcbs0zs8l06&rid=giphy.gif&ct=g" width = "50"> Um pouco mais sobre mim ... </h3>
 
 - 🔭 Atualmente curso bacharelado em Engenheira de Software 
 - 🌱 Estou aprendendo sobre back-end
 - 👯 Estou procurando oportunidade de estágio ou  dev jr.
 - 💬 Pergunte-me sobre `[HTML5, CSS3, JavaScript, Java]` 
-- 😄 Pronomes: Ela / Sua
 - ⚡ Curiosidades: Minha tatuagem preferida é de Stormtroopers, nerd que ama café e cerveja...
 
 
 #
 
-<h3 align = "left"> Idiomas e ferramentas: <img src = "https://giphy.com/gifs/SportsManias-mandalorian-the-this-is-way-f9wiV1QYsy2tRp7mDP" width = "30"> </h3>
+ <img src = "https://media4.giphy.com/media/f9wiV1QYsy2tRp7mDP/giphy.gif?cid=ecf05e47ds90iuzt430x6szq9qggub72o3pnpcnkm8t01sb2&rid=giphy.gif&ct=g" width = "30"> 
 
 
 ##
