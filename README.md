@@ -6,7 +6,6 @@
 
 - 🔭 Atualmente curso bacharelado em Engenheira de Software 
 - 🌱 Estou aprendendo sobre back-end
-- 👯 Estou procurando oportunidade de estágio ou  dev jr Java.
 - 💬 Pergunte-me sobre `[HTML5, CSS3, JavaScript, Java]` 
 - ⚡ Curiosidades: Minha tatuagem preferida é de Stormtroopers, nerd que ama café e cerveja...
 
