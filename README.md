@@ -5,7 +5,7 @@
 <h3> Um pouco mais sobre mim ... </h3>
 
 - 🔭 Atualmente curso bacharelado em Engenheira de Software 
-- 🌱 Estou aprendendo sobre back-end
+- 🌱 Estou me desenvolvendo em Back-end, Microsserviços e Cloud
 - 💬 Pergunte-me sobre `[HTML5, CSS3, JavaScript, Java]` 
 - ⚡ Curiosidades: Minha tatuagem preferida é de Stormtroopers, nerd que ama café e cerveja...
 
