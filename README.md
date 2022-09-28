@@ -4,7 +4,7 @@
 
 <h3> Um pouco mais sobre mim ... </h3>
 
-- 🔭 Atualmente curso bacharelado em Engenheira de Software 
+- 🔭 Atualmente curso bacharelado em Engenheira de Software e atuo como Backend Java Developer
 - 🌱 Estou me desenvolvendo em Back-end, Microsserviços e Cloud
 - 💬 Pergunte-me sobre `[HTML5, CSS3, JavaScript, Java]` 
 - ⚡ Curiosidades: Minha tatuagem preferida é de Stormtroopers, nerd que ama café e cerveja...
