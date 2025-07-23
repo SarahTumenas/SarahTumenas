@@ -4,9 +4,9 @@
 
 <h3> Um pouco mais sobre mim ... </h3>
 
-- 🔭 Atualmente curso bacharelado em Engenheira de Software e atuo como Backend Java | Kotlin Developer
+- 🔭 Engenheira de Software e atuo como Lead Architect
 - 🌱 Me desenvolvendo em Back-end, Microsserviços, AWS, Arquitetura
-- 💬 Pergunte-me sobre `[Java, Microservices, DevOps]` 
+- 💬 Pergunte-me sobre `[Java, Kotlin, Microservices, DevOps]` 
 - ⚡ Curiosidades: Minha tatuagem preferida é de Stormtroopers, nerd que ama café e cerveja...
 
 
